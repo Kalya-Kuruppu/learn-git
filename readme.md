@@ -2,7 +2,7 @@
 
 Subscribe to me
 
-'''javascript
+```javascript
     console.log('hello world')
-    
-'''
+
+```
